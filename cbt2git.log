@@ -1,0 +1,21 @@
+2025-04-04 10:46:18.006772 - Received CBT.V508.FILE501.PDS from FILE501.XMI 
+2025-04-04 10:46:18.007904 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:46:18.008061 - Found $SNTP.jcl (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/$SNTP
+2025-04-04 10:46:18.008208 - Found $SNTPRAT.jcl (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/$SNTPRAT
+2025-04-04 10:46:18.008339 - Found $SNTPTST.jcl (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/$SNTPTST
+2025-04-04 10:46:18.008465 - Found #NTP.rexx (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/#NTP
+2025-04-04 10:46:18.008593 - Found #SNTP.rexx (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/#SNTP
+2025-04-04 10:46:18.008720 - Found #STCK.rexx (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/#STCK
+2025-04-04 10:46:18.008848 - Found @FILE501.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/@FILE501
+2025-04-04 10:46:18.008974 - Found @SNTPRAT.jcl (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/@SNTPRAT
+2025-04-04 10:46:18.009093 - Found @SNTPTST.jcl (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/@SNTPTST
+2025-04-04 10:46:18.009297 - Found ETS1.vnd.microsoft.portable-executable (application/vnd.microsoft.portable-executable) in CBT.V508.FILE501.PDS, moved to PDS/ETS1
+2025-04-04 10:46:18.009420 - Found IPCOPY.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/IPCOPY
+2025-04-04 10:46:18.009548 - Found README.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/README
+2025-04-04 10:46:18.009731 - Found RFC2030.doc (application/msword) in CBT.V508.FILE501.PDS, moved to docs/RFC2030.doc
+2025-04-04 10:46:18.009882 - Found SNTP.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/SNTP
+2025-04-04 10:46:18.010018 - Found SNTPPROC.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/SNTPPROC
+2025-04-04 10:46:18.010139 - Found SNTPRATE.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/SNTPRATE
+2025-04-04 10:46:18.010260 - Found SNTPTEST.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/SNTPTEST
+2025-04-04 10:46:18.010408 - Found S2968KCA.ppt (application/vnd.ms-powerpoint) in CBT.V508.FILE501.PDS, moved to docs/S2968KCA.ppt
+2025-04-04 10:46:18.010526 - Found X2CTBL.txt (text/plain) in CBT.V508.FILE501.PDS, moved to PDS/X2CTBL
